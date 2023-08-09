@@ -1,0 +1,40 @@
+*{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    text-decoration: underline green;
+    background-color: aliceblue;
+    color: green;
+}
+.one{
+    font-size: 1.3em;
+}
+.two{
+    font-size: 1.6em;
+}
+.three{
+    font-size: 1.9em;
+}
+.four{
+    font-size: 2.2em;
+}
+.five{
+    font-size: 2.5em;
+}
+.six{
+    font-size: 2.8em;
+}
+.seven{
+    font-size: 3.1em;
+}
+.eight{
+    font-size: 3.4em;
+}
+.nine{
+    font-size: 3.7em;
+}
+.ten{
+    font-size: 4em;
+}
+.leven{
+    font-size: 4.3em;
+}
